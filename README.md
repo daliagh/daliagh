@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daliagh
-- 👀 I’m interested in Data & programming
-- 🌱 I’m currently learning Blockchain development
+- 👀 I’m interested in Data & Programming languages
+- 🌱 I’m currently learning Blockchain Technology and Smart contracts
 - 💞️ I’m looking to collaborate on some Experienced programmers
 - 📫 How to reach me Email: daliath44@gmail.com
 
